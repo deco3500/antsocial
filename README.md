@@ -13,7 +13,7 @@ the members and their course code. Identify:
 - How will decisions be made;
 - How will the team handle poor performance and resolve conflicts.
 
-#Commnication
+#Communication
 - Where and when will your team meet and how will you all communicate?1
 - Where will files be stored and shared? 
 - What are the file naming conventions?
