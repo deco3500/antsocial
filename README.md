@@ -12,20 +12,21 @@ the members and their course code. Identify:
 - Who fills key roles, e.g. back end, front end, content, design;
 - How will decisions be made;
 - How will the team handle poor performance and resolve conflicts.
+
 #Commnication
--Where and when will your team meet and how will you all communicate?1
--Where will files be stored and shared? 
--What are the file naming conventions?
--Identify the social platform/s your team has adopted and explain the choice. 
--How will it facilitate communication and / or file sharing?
+- Where and when will your team meet and how will you all communicate?1
+- Where will files be stored and shared? 
+- What are the file naming conventions?
+- Identify the social platform/s your team has adopted and explain the choice. 
+- How will it facilitate communication and / or file sharing?
 
 The group has come to an agreement of coming to the lectures and the practical sessions on Monday (10:00-12:00) and Friday (14:00-16:00). If the group decides on additional meetings; all group members shall agree to attend those meetings, unless there is an emergency. The group has agreed to use Slack and Facebook as the primary tools of communication. This should be checked at least once every 36 hours to ensure every group member is up to date. If a group member is unreachable by Slack or Facebook then they will be contacted by phone and email. In the event of needing to schedule a meeting outside of class it must be done with at least 48 hours notice and be scheduled to have the most available members attend.
 
 #Plan
  Identify the key tasks that need to be completed and when. Identify:
-• Project phases e.g. research; requirements; design; construction;
-• Key deliverables for each phase (Milestones) ;2
-• Resources – equipment or other tools/people you might need. 
+- Project phases e.g. research; requirements; design; construction;
+- Key deliverables for each phase (Milestones) ;2
+- Resources – equipment or other tools/people you might need. 
 #Tag
  Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
 awareness, Collaboration, CSCW) and 2 keywords related to journalism and News (e.g. Citizen
