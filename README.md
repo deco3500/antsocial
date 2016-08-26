@@ -27,7 +27,7 @@ The group has come to an agreement of coming to the lectures and the practical s
 - Project phases e.g. research; requirements; design; construction;
 - Key deliverables for each phase (Milestones) ;2
 - Resources – equipment or other tools/people you might need.
-- 
+ 
 #Tag
  Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
 awareness, Collaboration, CSCW) and 2 keywords related to journalism and News (e.g. Citizen
