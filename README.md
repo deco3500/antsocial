@@ -1,5 +1,5 @@
 #Antsocial
-#Introducaiton
+#Introduction
 Locals is an online community web application that groups people based on the location/suburb that they live in, in these groups, the users are also split into different subgroups based on their age. News that are related to that location/suburb will be posted to that group so people can get up-to-date information on what is happening around them. The user is also able to give feedback to the sender using this web application. Other then news, the user can also post other messages to the web application such as garage sales, lost items or advertisements etc. on the web application for the local community. By using this web application, the user also gets a chance to know the people around them.
 #Concept
  outline the idea and the rationale behind it. Define the project aims and audience and
