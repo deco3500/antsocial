@@ -25,12 +25,7 @@ The group has agreed to use Slack and Facebook as the primary tools of communica
 
 Google docs were created to share files and folders within the team. Google docs were selected as it was the most convenient tool for collaboration documents. The naming conventions we will be using is docx and pdf. The social platform that we have adopted is web application and maybe mobile application if time persists in the future.  
 ##Plan
- Identify the key tasks that need to be completed and when. Identify:
-- Project phases e.g. research; requirements; design; construction;
-- Key deliverables for each phase (Milestones) ;2
-- Resources – equipment or other tools/people you might need.
-
-
+ 
 |Week/Date             |Task Description and Duration   |Resource Requirements   |
 |----------------------|---|---|
 |Week 6 31/8 – 06/9 Week 7 07/9 - 13/9|1. Data collection and personas modeling: in the initial phase we need to conduct several kinds of investigation to collect raw data from our target users.  The methodologies including context interview, questionnaire, context observation would be considered in order to get comprehensive qualitative and quantitative data.    2.  Idea refinement: meanwhile, in this period, we would refine our initial idea, finding the bugs in terms of usability, feasibility and interactivity. Also, we have to consider the social aspects and how to combine current technologies with basic requirements. 3.Initial documentation and proposal completion: we would refine the plan we made in this first proposal according to the reality we meet and allocate tasks to every team member based on their professional skill and preferences.|1. To conduct the initial user research, we have to make the investigation plan according to existing experiences and guides. There are user research paradigms for the designers in https://www.usability.gov/, meanwhile, we need to create questionnarie in Google Form. 2.To model the personas,we would employ the raw data we collect in the previous phase.  Also, if we lose some points, it is possible for us to build personas with conventional knowledge on target users.|
