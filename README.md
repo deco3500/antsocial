@@ -36,7 +36,7 @@ Google docs were created to share files and folders within the team. Google docs
 ##Documentation
 Documents such as Project Proposal will be composed by the team members using Google document, and be stored in Google Drive, so does files sharing. Git will be adopted for secondary storage of the documents
 
-##Plan
+##Plan&Milestones
  
 |Week/Date             |Task Description and Duration   |Resource Requirements   |
 |----------------------|---|---|
@@ -56,7 +56,6 @@ Documents such as Project Proposal will be composed by the team members using Go
 6. Test and Iteration: Numbers of iteration between our prototypes and final product, we would invite outsiders and insiders to test our product or prototype in order to get comprehensive qualitative and quantitative data from users
 
 We hope that each step could be conducted successfully so that we may get the product which could satisfy our basic expectation. Meanwhile, we also expect that our project could run well in the real scenario as it would perform in our simulated context scenarios again and again.
-
 
 ##Tag
  #Collaboration 
