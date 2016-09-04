@@ -5,12 +5,19 @@ The project that our team has chosen is Locals. Locals is an online community we
 
 Locals helps the local community to spread news that are related to the local area. This web application provides a medium for the people to spread their opinions or ideas online. Nowadays, as mosts of the news websites focuses on the content of the news, this web application focuses on the place/area in which the news/event happened and delivers these information to the user group.
 ##Concept
- The idea of this project is to provide a medium for the local community to communicate and share news and opinions. As most of the news websites focus on a international/national perspective, Locals focuses on providing news in the local area. One of the benefits of using Locals is that the users gets a chance to know the people that is living around them. 
+The idea of this project is to provide a medium for the local community to communicate and share news and opinions. As most of the news websites focus on a international/national perspective, Locals focuses on providing news in the local area. One of the benefits of using Locals is that the users gets a chance to know the people that is living around them. 
 
-This project aims to provide up-to-date news to the local community for the people that is living in the area. People can also provide any feedback or opinion they have about the news. News content will be generated from news websites such as news.com.au, yahoo news, fairfax etc. The system will scan the article for suburb names that are saved in the database and the system will create posts according to the suburb the event happened. User can also share posts on social websites such as Facebook or Twitter to increase engagement and attract other users on different channels. People should use this web application as it combines news from different sources about a particular suburb without the need to search using specific keywords of the suburb on news websites. 
+Conceptual model:
+
+This project aims to provide up-to-date news to the local community for the people that is living in the area. People can also provide any feedback or opinion they have about the news. 
+
+The Locals is a website application that is based on the Google Map, focusing on new communication in local areas. The major technique of this project is the connection of different kinds of API from different resources such as Google Earth for web map and Facebook, Twitter and other news publishers for the raw data of news. Then we would try to analyse the raw data we get and use logical filters to allocate certain news to corresponding areas. As for the user interaction, we would provide rich exploration in term of interaction mode for users which means we would support drag and drop in the map so that users could explore anything as we want. The core question is that, how to augment the communication between users, so we would provide the personal news post mechanism which users could post their news from our platform as the supplementary news resources apart from other mainstream publishers.
 
 
-As mentioned above, most of the news websites nowadays focuses on a bigger perspective while Locals focuses on specific suburbs. As most of the news website only share information, Locals also provides a method for the users to have a say on what they think. 
+News content will be generated from news websites such as news.com.au, yahoo news, fairfax etc. The system will scan the article for suburb names that are saved in the database and the system will create posts according to the suburb the event happened. User can also share posts on social websites such as Facebook or Twitter to increase engagement and attract other users on different channels. People should use this web application as it combines news from different sources about a particular suburb without the need to search using specific keywords of the suburb on news websites. 
+
+
+As mentioned above, most of the news websites nowadays focuses on a bigger perspective while Locals focuses on specific suburbs. As most of the news website only share information, Locals also provides a method for the users to have a say on what they think.
 
 ##Team
 Our current team members consists Sin Man Simao Chan (Simon), ______________(Wilbur), Beijia Li (Rebecca) and Chen Xue (Scott). 
@@ -25,6 +32,10 @@ Our group has come to an agreement of coming to the lectures and the practical s
 The group has agreed to use Slack and Facebook as the primary tools of communication. Facebook group and Slack channels were created when the group was formed. Slack and Facebook group should be checked at least once every 36 hours to ensure every group member is up-to-date. If a group member is unreachable by Slack or Facebook then they will be contacted by phone and email. In the event of needing to schedule a meeting outside of class it must be done with at least 48 hours notice and be scheduled to have the most available members to attend.
 
 Google docs were created to share files and folders within the team. Google docs were selected as it was the most convenient tool for collaboration documents. The naming conventions we will be using is docx and pdf. The social platform that we have adopted is web application and maybe mobile application if time persists in the future.  
+
+##Documentation
+Documents such as Project Proposal will be composed by the team members using Google document, and be stored in Google Drive, so does files sharing. Git will be adopted for secondary storage of the documents
+
 ##Plan
  
 |Week/Date             |Task Description and Duration   |Resource Requirements   |
