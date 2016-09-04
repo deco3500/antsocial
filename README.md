@@ -83,3 +83,4 @@ We hope that each step could be conducted successfully so that we may get the pr
  Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
 awareness, Collaboration, CSCW) and 2 keywords related to journalism and News (e.g. Citizen
 Journalists, ...).
+ 
