@@ -46,9 +46,14 @@ Google docs were created to share files and folders within the team. Google docs
 
 We hope that each step could be conducted successfully so that we may get the product which could satisfy our basic expectation. Meanwhile, we also expect that our project could run well in the real scenario as it would perform in our simulated context scenarios again and again.
 
->>>>>>> 8ee4db40790a00f33dbb57854981aec25b68a7a6
- 
+
 ##Tag
- Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
-awareness, Collaboration, CSCW) and 2 keywords related to journalism and News (e.g. Citizen
-Journalists, ...).
+ #Collaboration 
+ #Cooperation 
+ #Awareness
+ #Social Networks
+ #CSCW
+ #Communication
+ #Ideas 
+ #Engagement
+
