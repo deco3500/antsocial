@@ -50,14 +50,14 @@ We hope that each step could be conducted successfully so that we may get the pr
 
 
 ##Tag
-5 Key Concepts from social and mobile lectures
-#Collaboration
-#Cooperation
-#Awareness
-#Social Networks
-#Communication
+###5 Key Concepts from social and mobile lectures
+ #Collaboration
+ #Cooperation
+ #Awareness
+ #Social Networks
+ #Communication
 
-2 Keywords related to journalism and news
-#Ideas
-#Engagement
+###2 Keywords related to journalism and news
+ #Ideas
+ #Engagement
 
