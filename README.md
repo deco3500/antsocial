@@ -1,9 +1,13 @@
 #Antsocial
 
-##Research
+##Promotional material
+##Prototype Link
+##Process
+###Research
 
 
-##Requirements
+###Requirements
 
-##Designs
+###Designs
+##Member’s contribution to the project
 
