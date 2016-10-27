@@ -78,6 +78,7 @@ The users can also share posts from the Locals platform to social websites such 
 - Users can create new post by using the new post function. It is required to enter the title and content of the post. The post can be purely text or with pictures attached. The user also gets an option to display the current location of where the post was made. 
 - A news library which contains all the news category in the local area.
 - An About Us page about the developer team behind Locals.
+
 ###Design of the prototype
 Design draft 1
 ![GitHub Logo](/images/draft1.png)
