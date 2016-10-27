@@ -113,10 +113,15 @@ This page can be accessed by clicking on the fourth button of the navigation men
 
 ##Evaluation
 Area of risk in analytic evaluation for electronic prototype:
+
 A. The integrity of information display
+
 B. The smoothness transformation of the navigation system
+
 C. The integrity of user input feedback
+
 D. The responding mechanism of triggers
+
 E. The observation of walkthrough process of users
  
 According to these new changes in our evaluation goals, we have adjusted our test plan to correspond with the following areas.
