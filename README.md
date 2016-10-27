@@ -126,7 +126,19 @@ D. The responding mechanism of triggers
 E. The observation of walkthrough process of users
  
 According to these new changes in our evaluation goals, we have adjusted our test plan to correspond with the following areas.
- 
+
+Scope of testing:
+1. Product: Locals
+2. Testing ranges:
+	* Observation of whole walkthrough of users testing
+	* Observation of user operation in all functional modules
+	* Navigations between different functional modules
+	* Information inputting in the application prototype
+	* Triggers responding in the application prototype
+	* Escaping from functional modules
+	* Efficiency of interfaces
+
+
 
 
 ##Member’s contribution to the project
