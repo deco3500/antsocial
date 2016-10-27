@@ -185,11 +185,11 @@
             }
 
             var beaches = [
-            ['Bondi Beach', -33.890542, 151.274856, 4],
-            ['Coogee Beach', -33.923036, 151.259052, 5],
-            ['Cronulla Beach', -34.028249, 151.157507, 3],
-            ['Manly Beach', -33.80010128657071, 151.28747820854187, 2],
-            ['Maroubra Beach', -33.950198, 151.259302, 1]
+            ['Business', -33.890542, 151.274856, 4],
+            ['Sports', -33.923036, 151.259052, 5],
+            ['Entertainment', -34.028249, 151.157507, 3],
+            ['Culture', -33.80010128657071, 151.28747820854187, 2],
+            ['Life', -33.950198, 151.259302, 1]
             ];
 
             // Adds markers to the map.
@@ -261,29 +261,56 @@
             '<h1 id="firstHeading" class="firstHeading">Business News</h1>' +
             '<div id="bodyContent">' +
             '<p>Chinese market moving power was again demonstrated on Friday when some surprisingly strong inflation data particularly relating to higher factory gate prices buoyed sentiment that had been crushed the day before by weak trade figures Wall Street finished the week fairly flat helped by solid results from a couple of big banks, while Europe was stronger. But the mood did not reach Australia with futures trading pointing a fall on opening.</p>' +
-            '<p>Attribution: Business, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">' +
-            'https://en.wikipedia.org/w/index.php?title=Uluru</a> ' +
-            '(last visited June 22, 2009).</p>' +
+            '<p>Attribution: Business' +
             '</div>' +
             '</div>';
 
             var contentString2 = '<div id="content" >' +
-    '<div id="siteNotice">' +
-    '</div>' +
-    '<h1 id="firstHeading" class="firstHeading">Sports News</h1>' +
-    '<div id="bodyContent">' +
-    '<p>Chinese market moving power was again demonstrated on Friday when some surprisingly strong inflation data particularly relating to higher factory gate prices buoyed sentiment that had been crushed the day before by weak trade figures Wall Street finished the week fairly flat helped by solid results from a couple of big banks, while Europe was stronger. But the mood did not reach Australia with futures trading pointing a fall on opening.</p>' +
-    '<p>Attribution: Business, <a href="sportsindex.html">' +
-    'sportsindex.html</a> ' +
-    '(last visited June 22, 2009).</p>' +
-    '</div>' +
-    '</div>';
+            '<div id="siteNotice">' +
+            '</div>' +
+            '<h1 id="firstHeading" class="firstHeading">Sports News</h1>' +
+            '<div id="bodyContent">' +
+            '<p>Chinese market moving power was again demonstrated on Friday when some surprisingly strong inflation data particularly relating to higher factory gate prices buoyed sentiment that had been crushed the day before by weak trade figures Wall Street finished the week fairly flat helped by solid results from a couple of big banks, while Europe was stronger. But the mood did not reach Australia with futures trading pointing a fall on opening.</p>' +
+            '<p><b>View More:<b><a href="sportsindex.html">' +
+            'sportsindex.html</a> ' +
+            '</p>' +
+            '</div>' +
+            '</div>';
 
-            //var infowindow = new google.maps.InfoWindow({
-            //content: contentString1
-        //});
+            var contentString3 = '<div id="content" >' +
+            '<div id="siteNotice">' +
+            '</div>' +
+            '<h1 id="firstHeading" class="firstHeading">Entertainment News</h1>' +
+            '<div id="bodyContent">' +
+            '<p>Chinese market moving power was again demonstrated on Friday when some surprisingly strong inflation data particularly relating to higher factory gate prices buoyed sentiment that had been crushed the day before by weak trade figures Wall Street finished the week fairly flat helped by solid results from a couple of big banks, while Europe was stronger. But the mood did not reach Australia with futures trading pointing a fall on opening.</p>' +
+            '<p>Attribution: Business' +
+            '(last visited June 22, 2009).</p>' +
+            '</div>' +
+            '</div>';
 
-            var secretMessages = [contentString1, contentString2, 'the', 'secret', 'message'];
+            var contentString4 = '<div id="content" >' +
+            '<div id="siteNotice">' +
+            '</div>' +
+            '<h1 id="firstHeading" class="firstHeading">Culture News</h1>' +
+            '<div id="bodyContent">' +
+            '<p>Chinese market moving power was again demonstrated on Friday when some surprisingly strong inflation data particularly relating to higher factory gate prices buoyed sentiment that had been crushed the day before by weak trade figures Wall Street finished the week fairly flat helped by solid results from a couple of big banks, while Europe was stronger. But the mood did not reach Australia with futures trading pointing a fall on opening.</p>' +
+            '<p>Attribution: Business' +
+            '(last visited June 22, 2009).</p>' +
+            '</div>' +
+            '</div>';
+
+            var contentString5 = '<div id="content" >' +
+            '<div id="siteNotice">' +
+            '</div>' +
+            '<h1 id="firstHeading" class="firstHeading">Life News</h1>' +
+            '<div id="bodyContent">' +
+            '<p>Chinese market moving power was again demonstrated on Friday when some surprisingly strong inflation data particularly relating to higher factory gate prices buoyed sentiment that had been crushed the day before by weak trade figures Wall Street finished the week fairly flat helped by solid results from a couple of big banks, while Europe was stronger. But the mood did not reach Australia with futures trading pointing a fall on opening.</p>' +
+            '<p>Attribution: Business' +
+            '(last visited June 22, 2009).</p>' +
+            '</div>' +
+            '</div>';
+
+            var secretMessages = [contentString1, contentString2, contentString3, contentString4, contentString5];
             for (var i = 0; i < beaches.length; i++) {
 
             var beach = beaches[i];
