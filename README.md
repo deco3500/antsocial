@@ -112,6 +112,15 @@ This page can be accessed by clicking on the third button of the navigation menu
 This page can be accessed by clicking on the fourth button of the navigation menu at the left of the home page. It displays the information of the development team including pictures of each developer, our names, and the tasks that we have done during the development process.
 
 ##Evaluation
+Area of risk in analytic evaluation for electronic prototype:
+A. The integrity of information display
+B. The smoothness transformation of the navigation system
+C. The integrity of user input feedback
+D. The responding mechanism of triggers
+E. The observation of walkthrough process of users
+ 
+According to these new changes in our evaluation goals, we have adjusted our test plan to correspond with the following areas.
+ 
 
 
 ##Member’s contribution to the project
