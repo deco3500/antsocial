@@ -52,16 +52,47 @@ People who drives to work and wanted to know about the traffic conditions in cer
 
 Travellers can also use the app to see what is happening in the place where they plan to visit by selecting the pin in Google Map and browsing through the news list. They can read the comments that are posted by other users to see how the locals view/opinion on a certain event/news.  
 
+The persona below represents our intended users as it was developed by the research performed on common attributes of our target audiences. 
+
+![GitHub Logo](/images/persona.jpg)
+
+##Requirement Analysis
+We have collected a lot of raw data and initial personas from research phase and in requirement analysis phase. We would analyze such statistics further in order to get universal and comprehensive requirements of the user. 
+
+##Conceptual Design
+###Concept
+The idea of this project is to provide a medium for the local community to communicate and share news and opinions. As most of the news websites focus on an international/national perspective, Locals focuses on providing up-to-date news in the local area for people that is living in that area. One of the benefits of using Locals is that the users get a chance to know the people that are living in the same area.
+
+###Conceptual Model
+Locals is a web application that is based on Google Map, focusing on new communication methods in local areas. The major technique of this project is the connection of different APIs from different resources such as Google Earth for web map and Facebook, Twitter and other news publishers for news data.The data collected will be analysed and logical filters will be used to allocate certain news events to corresponding areas. As for the user interaction, rich exploration in terms of interaction mode were provided for users with the support of drag-and-drop, zoom-in/zoom-out by scrolling on the mouse gives the user different interaction methods when using the application. The core question is on how to augment the communication between users in providing a personal news post mechanism in which users could post their news from the Locals platform as the supplementary news resources apart from other mainstream publishers. 
+The users can also share posts from the Locals platform to social websites such as Facebook or Twitter to increase engagement and attract other users from different channels. People should use this web application as it combines news from different sources about a particular suburb/area without the need to search using specific keywords of the suburb/area on different news websites.
+###Framework Design
+####Functions
+- Login, Register, Forgot Password, and Logout.
+- Google Map which can be zoomed in or out on a specific area. 
+- Transparent circles displayed on Google Map shows the news’ region contour, the larger the circle, the more news that are contained in the region.
+- The user can read the outline of the news events by clicking on the pins with different letters that represents different categories of news. Users can click on the link provided in the outline to read the full list of news contained in the category. 
+- Users can click on any news events in the forum list to view its detail, location and where the article was posted as shown in the form of Google Map. 
+- Users can leave comments under each news event post in the forum. The comment made can be purely text or with pictures attached. The user also gets an option to display the current location of where the comment was made. 
+- Users can create new post by using the new post function. It is required to enter the title and content of the post. The post can be purely text or with pictures attached. The user also gets an option to display the current location of where the post was made. 
+- A news library which contains all the news category in the local area.
+- An About Us page about the developer team behind Locals.
+###Design of the prototype
+Design draft 1
 ![GitHub Logo](/images/logo.png)
 
 
-###Designs
 ##Member’s contribution to the project
 ##References
 Be ́lair-Gagnon, V. (2013). Revisiting impartiality: Social media and journalism at the BBC . Symbolic interaction , 36 (4), 478-492.
+
 Bradshaw, P., & Rohumaa, L. (2011). The online journalism handbook: Skills to survice and thrive in the digital age (1st ed ed.). New York: Longman.
+
 Kaplan, A. M., & Haenlein, M. (2010). Users of the world, unite! The challenges and opportunities of social media. Business Horizons , 53 (1), 59-68.
+
 Kerr, G., Mortimer, K., Dickinson, S., & Waller, D. S. (2012). Buy, boycott or blog. European Journal of Marketing , 46 (3/4), 387-405.
+
 Rudd, J., Stern, K., & Isensee, S. (1996, January). Fidelity: Prototyping Debate. Interactions , 76-85.
+
 Zelizer, B. (2009, January 7). Changing Faces of Journalism : Tabloidization, Technology and Truthiness. Shaping Inquiry in Culture, Communication and Media Studies .
 
