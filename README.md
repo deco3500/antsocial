@@ -80,6 +80,37 @@ The users can also share posts from the Locals platform to social websites such 
 ###Design of the prototype
 Design draft 1
 ![GitHub Logo](/images/logo.png)
+This is the main page of our web application, at the start of our design process, we used Google map along with a red pin on the map to represent the news events. 
+
+Design draft 2
+![GitHub Logo](/images/logo.png)
+At our second design phase, we decided to use black as our theme colour and used circles instead of pins to represent news events.
+
+Final Design
+![GitHub Logo](/images/logo.png)
+This is the login page for our web application. The user can register, login or reset their password in this page. After logging in, it will direct user to the main page. 
+![GitHub Logo](/images/logo.png)
+This page is accessed when the user forgets the account password, and clicks on “Forgot Password?” button on the login page. Email address of the registered account is required to be entered. The user then clicks on the “Reset Password” button. An email will be sent to the user’s email address, providing a link to reset password. After the user clicks on the link and enter the new password, he/she will be able to login using the same password.  
+![GitHub Logo](/images/logo.png)
+Register page requires the user to enter details including Name, Contact Number, Email Address, Username and Password. After all fields are filled in, user clicks on “Register” button to complete the registration process and continue to use the functions provided by the website.
+![GitHub Logo](/images/logo.png)
+At the final stage of our design, we decided to use different colour pins along with different letters to represent different news events. S for sport, L for life, E for entertainment, B for business and C for culture, The user can hover their mouse over the pins to see what each letter represents. The transparent circle represents the news’ region contour. The user can click on the pins to retrieve more information about the event. The top stories will then be displayed at the pop-up window. There is also a link on the pop-up window which directs the user to the forum page. 
+![GitHub Logo](/images/logo.png)
+This is the forum page of our web application, This page contains all the news that are related to the category that user has selected. The user can click on the post to retrieve more information about the event. The user can also create a new post by clicking on the new post button. The user can click the return button to return to the main page. 
+![GitHub Logo](/images/logo.png)
+This is the page that the user will be directed to when they press on the post in the forum list. This page displays detailed information about the news event with a map that displays where the comment was made. The user can comment on the post by clicking on the comment button located under the user profile. 
+![GitHub Logo](/images/logo.png)
+This page can be accessed by clicking on the “Comment” button in the page of detailed information of a news. User enters a comment title, its content, and choose to upload images to be attached to the comment. User can choose whether to save the current location to be the favourite location for future posts. After all the required fields are filled in, user clicks on “Post” button to share this comment. At the right hand side of the page, user can click on”New Post” to cancel the current comment, and post a news instead. By clicking on the “Return” button, the user can return to the homepage if he/she would like to cancel the comment. Three of the most recent updates of the user is listed below the “Return” button, which allows the user to click on the title of the post to view its detail.
+![GitHub Logo](/images/logo.png)
+This page can be accessed by clicking on the second button of the navigation menu at the left of the home page. It displays a “News Library” of the user’s current location. The news are sorted in the descending order of number of views. User can click on any of the news in the list to view its detail. 
+![GitHub Logo](/images/logo.png)
+The user can click on the news event to gain more information about the news. 
+![GitHub Logo](/images/logo.png)
+This page can be accessed by clicking on the third button of the navigation menu at the left of the home page. It allows the user to submit new post by entering a news title, selecting a category of the news from the list, writing the content of news, and also choose to upload images, which can be attached to the news content. User can choose whether to save the current location to be the favourite location for future posts. After all the required fields are filled in, user clicks on “Post” button to share this news. At the right hand side of the page, user can click on “Return” button to return to the homepage if he/she would like to cancel the post. Three of the most recent updates of the user is listed below the “Return” button, which allows the user to click on the title of the post to view its detail.
+![GitHub Logo](/images/logo.png)
+This page can be accessed by clicking on the fourth button of the navigation menu at the left of the home page. It displays the information of the development team including pictures of each developer, our names, and the tasks that we have done during the development process.
+
+##Evaluation
 
 
 ##Member’s contribution to the project
