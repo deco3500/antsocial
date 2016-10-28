@@ -147,44 +147,7 @@ Scope of testing:
 
 ##Member’s contribution to the project
 
-Cheng Hang (Wilbur) Master of Interaction Design 
-User Interface Designer and Web Developer 
 
-
-Responsibilities:
-Design and development of Google Map page
-Optimization of Google Map Style 
-Optimization of Explore, Post News and Information Pages 
-
-
-Sin Man Simao Chan (Simon) Master of Information Technology
-Database and PHP developer 
-
-
-Responsibilities:
-API implementation 
-Documentation for reports at each of the stages
-Development of login page, forum page 
-
-
-Chen Xue (Scott) Bachelor of Information Technology
-User Interface designer and Web Developer 
-
-
-Responsibilities: 
-Design and development of promotional website 
-Optimization of News Library page 
-Presentation preparation 
-
-
-Beijia Li (Rebecca) Bachelor of Information Technology 
-User Interface Designer
-
-
-Responsibilities: 
-Home Page, About Us page and Team Logo design 
-Image resizing and editing, mockups 
-Documentation of research and user persona 
 
 ##References
 Be ́lair-Gagnon, V. (2013). Revisiting impartiality: Social media and journalism at the BBC . Symbolic interaction , 36 (4), 478-492.
