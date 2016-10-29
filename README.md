@@ -326,15 +326,19 @@ User Interface Designer
 * Documentation of research and user persona 
 
 ##References
-Be ́lair-Gagnon, V. (2013). Revisiting impartiality: Social media and journalism at the BBC . Symbolic interaction , 36 (4), 478-492.
+Bélair-Gagnon, V. (2013). Revisiting Impartiality: Social Media and Journalism at The BBC. Symbolic Interaction, 36(4), 478-492. 
 
-Bradshaw, P., & Rohumaa, L. (2011). The online journalism handbook: Skills to survice and thrive in the digital age (1st ed ed.). New York: Longman.
+Bradshaw, P. & Rohumaa, L. (2011). The online journalism handbook. Harlow: Longman.
 
-Kaplan, A. M., & Haenlein, M. (2010). Users of the world, unite! The challenges and opportunities of social media. Business Horizons , 53 (1), 59-68.
+Kaplan, A. & Haenlein, M. (2010). Users of the world, unite! The challenges and opportunities of Social Media. Business Horizons, 53(1), 59-68. 
 
-Kerr, G., Mortimer, K., Dickinson, S., & Waller, D. S. (2012). Buy, boycott or blog. European Journal of Marketing , 46 (3/4), 387-405.
+Kerr, G., Mortimer, K., Dickinson, S., & Waller, D. (2012). Buy, boycott or blog. European Journal Of Marketing, 46(3/4), 387-405.
 
-Rudd, J., Stern, K., & Isensee, S. (1996, January). Fidelity: Prototyping Debate. Interactions , 76-85.
+Picard, R. G. (2009). Why journalists deserve low pay. The Christian Science Monitor, 19(9).
 
-Zelizer, B. (2009, January 7). Changing Faces of Journalism : Tabloidization, Technology and Truthiness. Shaping Inquiry in Culture, Communication and Media Studies .
+Rudd, J., Stern, K., & Isensee, S. (1996). Low vs. high-fidelity prototyping debate. Interactions, 3(1), 76-85. 
+
+The Media Center at the American Press Institute,. (2003). How audiences are shaping the future of news and information (pp. 1-66). Reston,: The Media Center at the American Press Institute.
+
+Zelizer, B. (2009). The changing faces of journalism. London: Routledge.
 
