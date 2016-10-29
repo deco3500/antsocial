@@ -177,7 +177,7 @@ Purpose:
 
 * Intuitive design: the effortless understanding of the navigation system in this prototype
 * Ease of learning: users who have never seen the user interface before can accomplish basic tasks
-* * Error frequency and severity: how often users make errors while using the prototype and how serious these errors are and how users recover from the errors
+* Error frequency and severity: how often users make errors while using the prototype and how serious these errors are and how users recover from the errors
 * Efficiency of use: experienced users can accomplish the tasks easily
 * Memorability: after visiting this prototype, if the user can remember enough to use it effectively in future visits
 * Subjective satisfaction: if the users are satisfied in using this application 
