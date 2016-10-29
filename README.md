@@ -142,6 +142,142 @@ Scope of testing:
 	* Escaping from functional modules
 	* Efficiency of interfaces
 
+Purpose:
+1. The general questions should be answered in the user evaluation:
+
+* The general impression of this product
+* Which part of the product were you confused with
+* Which part of the function you think is difficult to use
+* Which part of the product is not accordant with your thoughts (mental concept)
+* Are interfaces appealing and whether they provide clear information 
+* Which part you think is unnecessary
+* Which part you think is important/interesting
+
+2. The specific risks of every functional module:
+
+* Can users successfully register in the login and register page?
+* Can users successfully input username and password to identify themselves?
+* Can users successfully enter main page (map info page) of Locals?
+* Can users find out the hatch in every functional page?
+* Can users understand the implication of the digital circles in Google map?
+* Can users understand the implication of the different markers (pins) in Google map?
+* Can users recognise the four navigation buttons on the left side of the Google map?
+* Can users successfully open any kind of news info window from makers (pins) in Google map in a certain area?
+* Can users successfully enter the news list page from the link on the information  window in Google map? 
+* Can users successfully open a detailed page of a certain news in the news list page?
+* Can users successfully post a new event in the post page?
+* Can users successfully post a new event from the side navigation button in Google map?
+* Can users successfully  leave a comment in a detailed news page?
+* Can users successfully escape from news page to Google map?
+* Can users successfully log out?
+
+3. According to the questions and risks above, the goals of our evaluations are:
+
+* Intuitive design: the effortless understanding of the navigation system in this prototype
+* Ease of learning: users who have never seen the user interface before can accomplish basic tasks
+* * Error frequency and severity: how often users make errors while using the prototype and how serious these errors are and how users recover from the errors
+* Efficiency of use: experienced users can accomplish the tasks easily
+* Memorability: after visiting this prototype, if the user can remember enough to use it effectively in future visits
+* Subjective satisfaction: if the users are satisfied in using this application 
+
+####Schedule and location:
+The location of evaluation would generally be in building 78 or in canteen areas and the time would be flexible according to the testers.
+
+####Sessions: 
+This normal test session would be around 10 minutes which includes the test and interview.
+
+####Equipment:
+The electronic prototype would be shown and evaluated on a laptop.
+
+Detailed information of the evaluation platform:
+
+* Operating System: Windows 10 Professional 
+* Operating System Version:10586.318
+* Processor: Intel(R) Core(TM) i7-3940XM CPU @ 3.00GHz 3.20GHz
+* RAM: 16.0GB (15.6 GB available)
+* System Type: 64 - bit operating system
+
+#####Participants:
+We would choose 5 participants for our evaluation in our electronic prototype. The participants would be different in majors and genders so that we could get relatively comprehensive feedback and recording from them.
+
+####Scenario:
+Task 1. Immersive observe and let users to walk through the prototype at their own pace, recording the process of users’ walk through path, the error and correction method.
+
+After Task 1, we would give some specific tasks to users and observe how they complete each task.
+
+Task 2. Encourage users to find a certain kind of news in a certain area and record the whole process.
+
+Task 3. Encourage users to leave a comment in a certain news and record the whole process.
+
+Task 4. Encourage users to post a new event by different ways and record the whole process.
+
+Task 5. Encourage users to open news library in his current location and record the whole process.
+
+Task 6. Encourage users to log out and leave the application and record the whole process.
+
+Metrics:
+
+ Quantitative Data:
+1. Task time
+2. Success rates
+3. Error rates
+4. Error-Free Rate
+5. Satisfaction questionnaire rating
+6. Demographic data of participants
+
+Qualitative Data:
+1. Observations about pathways participants took
+2. Problems experienced
+3. How to solve problems
+4. Comments and recommendations
+
+Open-ended questions about qualitative data:
+* The general impression of this product
+* Which part of the product makes you confused
+* Which part of function you think hard to use
+* Which part of the product is not accordant with your thought (mental concept)
+* Are interfaces appealing and whether they provide you clear information or not
+* Which part you think unnecessary
+* Which part you think important/ interesting
+
+Roles:
+
+One member of our group would act as the guider at the very start and give users tasks we planned would be with the participants during the whole process. Also, there would be an open-ended interview for the participants after the testing session.
+
+All test materials 
+
+Protocol for Testing:
+Preparation –
+Prepare and lay out materials for the participant. Set up the laptop for the user, however do not bring up the website. Ensure the user doesn’t see the questions or the questionnaire until the appropriate time i.e. post testing. 
+
+Introduction –
+Introduce yourself and the team. Brief them on the testing and what they will be doing during the testing session. Tell them what is on the consent form. 
+
+Consent –
+Ask participant to fill in and sign consent form. All group members are to sign consent form. 
+
+Instructions –
+Give the participant more detailed instructions about the task they are to do.
+Inform them of the task at hand and the time frame we have allowed.
+Ask them to make comments out loud and/or inform us if there is any moment where they find they are stuck or don’t know where the go from here. Ask the participant if they have any questions.
+
+Observe –
+When the participant is ready, ask the participant to start on the task.
+Ensure observers take (timed) hand notes and video the process. If the participant asks questions then have one dedicated observer engage with the participants. Other observers are to be flies on the wall.
+When the time is up, close the observation process and say “great – we now have the information that we need for that part, we are now going to follow up with a questionnaire”.
+
+Questionnaire –
+Ask the participant to fill in the questionnaire. Clarify anything that is vague or not clear enough. 
+When the participant has finished filling in the questionnaire, check over the responses to make sure that all parts have been filled out, and the answers are legible.
+
+Further data collection –
+Based on their responses determine whether further data collection is required. Ask any further questions or request further interaction with the software. 
+
+Closing –
+Tell the participant that the session is at the end. Thank the participant for their time. Tell them that their data are valuable. Let participant know that they are free to go. 
+
+
+
 
 
 
