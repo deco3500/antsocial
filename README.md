@@ -143,6 +143,7 @@ Scope of testing:
 	* Efficiency of interfaces
 
 Purpose:
+
 1. The general questions should be answered in the user evaluation:
 
 * The general impression of this product
@@ -197,7 +198,7 @@ Detailed information of the evaluation platform:
 * RAM: 16.0GB (15.6 GB available)
 * System Type: 64 - bit operating system
 
-#####Participants:
+####Participants:
 We would choose 5 participants for our evaluation in our electronic prototype. The participants would be different in majors and genders so that we could get relatively comprehensive feedback and recording from them.
 
 ####Scenario:
@@ -218,6 +219,7 @@ Task 6. Encourage users to log out and leave the application and record the whol
 Metrics:
 
  Quantitative Data:
+
 1. Task time
 2. Success rates
 3. Error rates
@@ -226,6 +228,7 @@ Metrics:
 6. Demographic data of participants
 
 Qualitative Data:
+
 1. Observations about pathways participants took
 2. Problems experienced
 3. How to solve problems
@@ -283,7 +286,42 @@ Tell the participant that the session is at the end. Thank the participant for t
 
 ##Member’s contribution to the project
 
+###Cheng Hang (Wilbur) Master of Interaction Design 
 
+User Interface Designer and Web Developer 
+
+Responsibilities:
+* Design and development of Google Map page
+* Optimization of Google Map Style 
+* Optimization of Explore, Post News and Information Pages 
+
+
+###Sin Man Simao Chan (Simon) Master of Information Technology
+Database and PHP developer 
+
+
+Responsibilities:
+* API implementation 
+* Documentation for reports at each of the stages
+* Development of login page, forum page 
+
+
+###Chen Xue (Scott) Bachelor of Information Technology
+User Interface designer and Web Developer 
+
+Responsibilities: 
+* * Design and development of promotional website 
+* Optimization of News Library page 
+* Presentation preparation 
+
+
+###Beijia Li(Rebecca) Bachelor of Information Technology 
+User Interface Designer
+
+* Responsibilities: 
+* Home Page, About Us page and Team Logo design 
+* Image resizing and editing, mockups 
+* Documentation of research and user persona 
 
 ##References
 Be ́lair-Gagnon, V. (2013). Revisiting impartiality: Social media and journalism at the BBC . Symbolic interaction , 36 (4), 478-492.
