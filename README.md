@@ -4,6 +4,7 @@
 https://github.com/deco3500/antsocial/blob/master/promotional%20website/index.html/
 
 ##Prototype Link
+https://github.com/deco3500/antsocial
 ##Summary
 Locals is an online community web application that groups people based on the location/suburb that they live in. In these groups, the users are also split into different subgroups based on their interest such as sport, entertainment, business, culture and life. News that are related to that location/suburb will be posted to that group so people can get up-to-date information on what is happening around them. The user is also able to express their opinion or leave feedback in the web application. Other than news, the user can also post other messages to the web application such as garage sales, lost items or advertisements etc. on the web application for the local community.
 “Armed with easy-to-use Web publishing tools, always-on connections and increasingly powerful mobile devices, the online audience has the means to become an active participant in the creation and dissemination of news and information.” (WeMedia) Locals not only present local news in a traditional way, but one of its major functionalities is that users post what they see in the news and express their opinions to share with others. It turns users into journalists in reporting news, which largely increases the news amount that users get to read.
