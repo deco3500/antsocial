@@ -282,6 +282,9 @@ Tell the participant that the session is at the end. Thank the participant for t
 
 
 ##Member’s contribution to the project
+
+
+
 ##References
 Be ́lair-Gagnon, V. (2013). Revisiting impartiality: Social media and journalism at the BBC . Symbolic interaction , 36 (4), 478-492.
 
