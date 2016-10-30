@@ -15,24 +15,21 @@ Locals is an online community web application that groups people based on the lo
 ###Research
 ####Research 1:
 IT and social media consumption is increasing, resulting in the growth of citizen journalism. According a study of 200 blogs, Kerr et al. (2012), identified that blogs and online social media sites provided online users the power to influence and share their opinion with like-minded users. Furthermore, they found that online platforms increased the number of citizen journalists but formed an absence of impartiality.
+
 Source: Buy, Boycott or Blog (Kerr, Mortimer, Dickinson, & Waller, 2012)
 
-
-Within decades, mobile phones have gone from calling devices to multitalented tools that complement consumers’ ability to function. Today, they can call, text, email, post, and video through the internet. The Internet has evolved from a platform originally used to facilitate info-exchanging to a suitcase of social-networks that offer virtual-content-sharing (Kaplan & Haenlein, 2010). It is here where technology has transformed the way journalists, institutions and consumers distribute and receive news. In fact, social media is no longer being embraced for it’s traditional use. If you go into Google and search ‘Journalism apps’, the results will shows several headings along the lines of ‘Top 10 apps that every Journalist should have’.
-Source: Google, Retrieved 2015, October
-Mobile devices have become a common way for consumers to source information and data. Traditionally, this was achieved through online governmental or other institutional databases such as The National Archives’ Digital Archive of Data Sites. The sites originally provided users to only obtain information that was formatted. However, the sites now host forums to discuss their use of data and further relevant information. This has provided an element of interactivity, which has been well explored and used through other platforms.
-According to Bradshaw & Rohumaa (2011), live data has become a useful tool for journalists to obtain information. The difference between such data is that it is not stored anywhere but is produced at a particular time, which can be useful in certain contexts. For example, newspapers are increasingly using Twitter commentary to provide background information to a debate that is current at the time. 
+Mobile devices have become a popular way for consumers to buy information and data. Traditionally, this is a digital archive of online government or other institutional databases, such as data archives of the National Archives. The site initially provides users with access to only the formatted information. However, these Web sites now host forums discussing their use of data and further relevant information. This provides an interactive element that has been well explored and used by other platforms.
+According to Bradshaw and Rohumaa (2011), real-time data has become a useful tool for journalists to obtain information. The difference between these data is that it is not stored anywhere, but is generated at a particular time, which is useful in some contexts. For example, newspapers are increasingly using Twitter comments to provide background information for the current debate.
 
 Link: http://www.statista.com/statistics/330638/politics-governement-news-social-media-news-usa/
 
 This is certainly true in the data above that shows the social media platforms consumers use to source information on political and governmental activities in the US in 2014. As shown, Facebook was the number one site that online users relied on for receiving such news. However, a dilemma arises from this dependence on social media applications, which Bradshaw has summarized in the following questions:
 - How will users filter these platforms to obtain news that is relevant and significant?
 - How can information be visualized most clearly?
-- How can you ensured that these platforms are not being intentionally skewed for commercial or political reasons?
 - How much do you love to leave comments below the news?
 
 ####Research 2: Public Record Survey Questionnaire
-The link to the survey that aims to view users’ thoughts about the accessibility of news. It will provide some insight into this issue, and if Locals would be suitable product solution.
+A survey is designed to view ideas about accessibility to news. It will provide some insight into the problem, and if the locals would be the right product solution.
 
 Link: https://docs.google.com/forms/d/e/1FAIpQLSdTaKTeapIdaVqAdaqpRvwj8lkhTeIX6Biw8dFVFx6tVNVcsQ/viewform;
 
