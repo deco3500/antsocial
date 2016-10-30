@@ -23,7 +23,7 @@ According to Bradshaw and Rohumaa (2011), real-time data has become a useful too
 
 Link: http://www.statista.com/statistics/330638/politics-governement-news-social-media-news-usa/
 
-This is certainly true in the data above that shows the social media platforms consumers use to source information on political and governmental activities in the US in 2014. As shown, Facebook was the number one site that online users relied on for receiving such news. However, a dilemma arises from this dependence on social media applications, which Bradshaw has summarized in the following questions:
+This is certainly true in the above data, showing the social media platform consumers use in 2014 in US political and government activities.As shown, Facebook is the first site where online users receive such news. However, this dependence on social media applications dilemma, Bradshaw summed up in the following questions:
 - How will users filter these platforms to obtain news that is relevant and significant?
 - How can information be visualized most clearly?
 - How much do you love to leave comments below the news?
